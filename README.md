@@ -3,7 +3,7 @@
 **Churn Prediction Model & Revenue Leakage Dashboard**
 
 ## 🎯 Project Overview
-![power-bi]](dashboard.png)
+![alt text](dashboard.png)
  This project is a comprehensive business intelligence solution designed to identify why high-value "Pro" subscribers are canceling their service. By merging customer subscription data with live support engagement metrics, I isolated a critical technical bottleneck causing a 44% churn rate among specific users, resulting in over **$35,000 in monthly revenue loss.**
 
 This project demonstrates my ability to perform full-cycle data analysis: from raw data engineering in Python and complex SQL querying to executive-level visualization in Power BI.
