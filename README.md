@@ -1,6 +1,6 @@
 # 📊 CloudSync SaaS: Retention Intelligence Suite
 
-**Churn Prediction Model & Revenue Leakage Dashboard**
+**SaaS Churn Analysis & Revenue Dashboard**
 
 ## 🎯 Project Overview
 ![alt text](dashboard.png)
